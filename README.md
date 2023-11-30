@@ -11,4 +11,8 @@ want after selecting the model you'd like to apply the modifiers and keep the sh
 Known Issues: If You have merge and clipping selected on mirror modifier your shapeKeys are likely to get messed up. 
 Disable both merge & clip then run click on the shapeKey options you'd like to use. 
 
+Be sure to check out the forum link! You can find the other versions here incase you'd like to try them yourself.
 https://blenderartists.org/t/addon-shapekey-helpers/1131849
+
+Hope this helps, happy blending! 
+
