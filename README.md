@@ -14,5 +14,8 @@ Known Issues: "ShapeKeys are not transferring fully" If this happens, You have t
 Be sure to check out the forum link! You can find the other versions here in case you'd like to try them yourself.
 https://blenderartists.org/t/addon-shapekey-helpers/1131849
 
+And last here's a link to another ShapeKey tool.
+https://github.com/smokejohn/SKkeeper
+
 Hope this helps, happy blending! 
 
