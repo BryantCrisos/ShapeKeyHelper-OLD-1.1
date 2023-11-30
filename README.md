@@ -1,4 +1,4 @@
-# ShapeKeyHelper-OLD-1.1
+# ShapeKeyHelper 1.1 (That works in blender 3.6.5)
 This is an old version of J_Ott's ShapeKey Helper tools That works in Blender 3.6.5!
 (The newer updated versions throw errors & I'm no programmer to fix them D:)
 
