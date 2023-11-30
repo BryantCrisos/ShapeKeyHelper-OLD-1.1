@@ -8,10 +8,10 @@ You'll then see it in your Preferences> Addons > 'Mesh:ShapeKey Helpers
 How to use: The shapeKeys Helper menu should be located in the data tab. There you'll be able to press the function you
 want after selecting the model you'd like to apply the modifiers and keep the shapeKeys. 
 
-Known Issues: If You have merge and clipping selected on mirror modifier your shapeKeys are likely to get messed up. 
-Disable both merge & clip then run click on the shapeKey options you'd like to use. 
+Known Issues: "ShapeKeys are not transferring fully" If this happens, You have to disable merge and clipping on the mirror modifier.
+(While having merge and clipping on, blender tends to mess up the verts. The addon is heavily dependent on all verts staying the same.) 
 
-Be sure to check out the forum link! You can find the other versions here incase you'd like to try them yourself.
+Be sure to check out the forum link! You can find the other versions here in case you'd like to try them yourself.
 https://blenderartists.org/t/addon-shapekey-helpers/1131849
 
 Hope this helps, happy blending! 
